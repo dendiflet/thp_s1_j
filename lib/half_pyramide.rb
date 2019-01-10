@@ -23,8 +23,9 @@ else
 	puts "entre 1 et 25 c'est mieux"
 end
 
+	#code raw (ajouter le get.chomp)
 	# 1.upto(a) {|i| print " "*(a-i);puts "#"*(2*i-1) }
-	# (a-1).downto(1) { |i| print " "*(a-i);puts "#"*(2*i-1)}
+
 
 
 
